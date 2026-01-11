@@ -1,2 +1,2 @@
 # quest-complete
-Script Quest Completer / App browser
+Script Quest Completer - App browser
